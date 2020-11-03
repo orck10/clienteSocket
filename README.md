@@ -6,7 +6,7 @@
 
 '''
   
-  https://github.com/orck10/SocketTCP
+    https://github.com/orck10/SocketTCP
   
 '''
 
@@ -24,7 +24,7 @@
 
 '''
 
-  http://localhost:8080/
+    http://localhost:8080/
   
 '''
 
@@ -32,6 +32,6 @@
 
 '''
 
-  http://localhost:8080/swagger-ui/index.html?configUrl=/api-docs/swagger-config#/
+    http://localhost:8080/swagger-ui/index.html?configUrl=/api-docs/swagger-config#/
   
 '''
